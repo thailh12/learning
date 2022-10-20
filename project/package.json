@@ -8,7 +8,7 @@
     "immutable": "^3.8.2",
     "material-ui": "^0.19.4",
     "mongodb": "^3.0.0-rc0",
-    "mongoose": "^4.13.6",
+    "mongoose": "^4.13.21",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-redux": "^5.0.6",
